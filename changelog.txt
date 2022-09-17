@@ -1,0 +1,1 @@
+no need to put your fortnite path anymore, fortnite runs automatically after you put the arguments
